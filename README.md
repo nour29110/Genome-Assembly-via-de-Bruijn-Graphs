@@ -86,6 +86,7 @@ Assemble the circular genome of the phi X174 bacteriophage using error-prone rea
 Integrate all previous components to create a complete genome assembler that accepts reads or read-pairs as input, applies error correction, and outputs assembled contigs in FASTA format.
 
 [genome1](https://d3c33hcgiwev3.cloudfront.net/_c1223813227b2ecec3e60224e6f070e4_genome1.txt?Expires=1742601600&Signature=RSp~QY8booeetJuQMRpnwB28Pz637t-hZM6b-zkUdWW8E-So7XkE2HohOtfLi8~x4c7qkH0JUyV-9BS2KXBSN~8y-zOQGLeXMfKSIUMdpaYOxJ~WuuVRgvxrcnQwh41z53G0ymH9XyHXav3Y3a0XQnouRM3b9dFlXQjTj-MTzyc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
 [dataset1](https://d3c33hcgiwev3.cloudfront.net/_c1223813227b2ecec3e60224e6f070e4_dataset1.txt?Expires=1742601600&Signature=WTKAd-dbcO6rsNRn3hPtI5UKE-ePVg1KL5NGprVvhTe-Hru-cCZlGdaX1OXoyntYicuJCAs7s4W4rVRfx5ctiLYm7bpkiioLavctgN25mq3iA0XjKZ~XYrTov7m418r75y7McIsnuA5JKdtj26IbxlW1SKMrZ7qoQBArikLBAc4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 ### Key Tasks
